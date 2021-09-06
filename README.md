@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juxuan27
+- 👋 Hi, I’m Xuan Ju (鞠璇)
 - 👀 I am currently a forth-year undergraduate student in [Tongji University](https://www.tongji.edu.cn/) and I will be joining the CURE Lab at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/) as an incoming Ph.D. in 2022 Fall guided by Pro. Qiang Xu.
 - 🌱 I’m interested in Computer Vision, especially motion understanding
 - 📫 Reach me by juxuan.27@gmail.com
